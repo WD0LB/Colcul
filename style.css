@@ -1,0 +1,57 @@
+* {
+	text-align: center;
+}
+
+body {
+	background-color:  white;
+}
+
+h3 {
+	text-align: left;
+	margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+#input {
+	width: 100%;
+    height: 3em;
+}
+
+#normal-background {
+	text-align: center;
+	color: black;
+	background-color: white;
+}
+
+#linear-background {
+	background: linear-gradient(to right ,#97a09b29 , white);
+	color: black;
+	border-color: black;
+}
+#input {
+	background-color: white;
+}
+.clear .w3-btn {
+	text-align: center;
+	color: black;
+	background-color: white;
+	width: 20%;
+}
+
+
+
+.buttons .w3-btn {
+	width: 30%;
+}
+
+.buttons {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	padding-bottom: 10px;
+}
+.w3-btn {
+	border-width: 2px;
+	border-color: black;
+}
